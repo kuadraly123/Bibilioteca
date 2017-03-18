@@ -1,4 +1,4 @@
-# Bibilioteca
+# Biblioteca
 ![enter image description here](https://lh3.googleusercontent.com/WWmZYN0Nj4SVgCeyMjdl4HlZ-4dwoN7YKy7ZuM30BN2usn_D9DHnp05_STjtUm7gcVRq0fQf=s250 "libros.jpg")
 
 # INTRODUCCIÓN
@@ -28,3 +28,5 @@ En la biblioteca del tecnológico se han detectado los siguientes problemas con 
 - No existe relación entre las materias y los libros que se utilizan.
 
 - no se puede encontrar libros por medio de referencias (color,logo), materias o maestros.
+
+![concentracion](https://github.com/simmarin/Biblioteca-Prolog/blob/master/ImagenLibro/busqueda.jpg?raw=true")

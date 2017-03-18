@@ -30,3 +30,9 @@ En la biblioteca del tecnológico se han detectado los siguientes problemas con 
 - no se puede encontrar libros por medio de referencias (color,logo), materias o maestros.
 
 ![concentracion](https://github.com/simmarin/Biblioteca-Prolog/blob/master/ImagenLibro/busqueda.jpg?raw=true")
+
+# Solución
+Es el acceso a los libros que buscamos para evitar contratiempos y poder identificarlos los más rápido posible de lo normal. Y Proporcionar una búsqueda más amigable entre la relación de  maestros, materias y libros que se pueden usar en ellas.
+
+# BIBLIOTECLOGIC
+Se formuló al mezclar biblioteca y Prolog, lo escogimos porque queremos implementar una forma diferente de realizar una búsqueda en la base de datos común , adaptamos esa búsqueda similar a como lo haría un estudiante , por medio de lo que se acuerdo de un libro (color y demás características  ) para esta cuestión , la programación lógica es la herramienta y medio más  indicado para lograrlo.

@@ -53,5 +53,4 @@ Se formuló al mezclar biblioteca y Prolog, lo escogimos porque queremos impleme
 * maestroMateria(mario_chong,conmutacion).
 
  |Nombre De Libro                 |      Autor       |    Existencia      | Maestro |
- | ----------------- | ---------------------------- | ------------------|
  | Como Programar En Java |    Deitel         | 2 | Jorge Atempa

@@ -9,11 +9,22 @@ Por medio de la programación lógica, se pretende crear un programa que permita
 Prolog está orientado a la resolución de problemas mediante el cálculo de predicados, basado en:
 
 * Preguntas a la base de datos.
-
 * Pruebas matemáticas.
-
 
 La programación lógica está basada en la lógica de primer orden LPO (o lógica de predicados). Un programa PROLOG consiste en un conjunto de sentencias (o fórmulas), de la forma: A :- B1 , ... , Bn . con n ≥ 0.
 
 * Cuando n>0, la sentencia se escribe A :- B1 , ... , Bn . y se denomina regla.
 * Si n=0, la sentencia se escribe A . y se denomina hecho.
+
+# PROBLEMÁTICA
+En la biblioteca del tecnológico se han detectado los siguientes problemas con la gestión y búsqueda :
+
+- la búsqueda para un libro no es precisa.
+
+- la información de libros en la base de datos no es congruente con la existencia física.
+
+- Libros que utiliza el docente, no se encuentran en catálogo.
+
+- No existe relación entre las materias y los libros que se utilizan.
+
+- no se puede encontrar libros por medio de referencias (color,logo), materias o maestros.

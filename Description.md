@@ -36,3 +36,19 @@ Es el acceso a los libros que buscamos para evitar contratiempos y poder identif
 
 # BIBLIOTECLOGIC
 Se formuló al mezclar biblioteca y Prolog, lo escogimos porque queremos implementar una forma diferente de realizar una búsqueda en la base de datos común , adaptamos esa búsqueda similar a como lo haría un estudiante , por medio de lo que se acuerdo de un libro (color y demás características  ) para esta cuestión , la programación lógica es la herramienta y medio más  indicado para lograrlo.
+
+# CONSULTAS A REALIZAR
+¿Quiénes son maestros?
+¿Qué materias están disponibles?
+¿Qué maestro imparte la materia?
+¿Libros en catalogo?
+¿Qué libros se utilizan en la materia?
+¿Qué libros utiliza el maestro?
+¿Cuáles son las características del libro?
+¿Cuál libro contiene cierto color o logo?
+
+
+> imparteMateria(X,Y):- maestroMateria(X,Y).
+
+* maestroMateria(mario_chong,redes_inalambricas).
+* maestroMateria(mario_chong,conmutacion).
